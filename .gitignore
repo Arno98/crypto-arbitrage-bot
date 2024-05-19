@@ -1,0 +1,4 @@
+bs24_env/
+__pycache__/
+*.env
+*.sqlite3
